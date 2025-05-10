@@ -1,0 +1,1 @@
+Demonstrate creating go module.
